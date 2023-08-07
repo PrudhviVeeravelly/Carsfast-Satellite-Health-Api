@@ -6,7 +6,7 @@ This web application monitors the health status of the satellite launched by Car
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prudhvi_veeravelly/satellite-health-api.git
+   git clone https://github.com/PrudhviVeeravelly/satellite-health-api.git
 
 2. Navigate to the project directory:
 
